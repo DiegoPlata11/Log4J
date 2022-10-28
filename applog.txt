@@ -1,0 +1,32 @@
+INFO    2022-10-26 21:21:46,745 [main] main.logging.ListaPromedio  - La longituda de la lista es mayor a 5
+INFO    2022-10-26 21:21:46,746 [main] main.logging.ListaPromedio  - La longituda de la lista es mayor a 5
+INFO    2022-10-26 21:21:46,746 [main] main.logging.ListaPromedio  - La longituda de la lista es mayor a 10
+ERROR   2022-10-26 21:21:46,747 [main] main.Main  - La lista es igual a cero 
+java.lang.Exception
+	at main.logging.ListaPromedio.<init>(ListaPromedio.java:25)
+	at main.Main.main(Main.java:24)
+INFO    2022-10-28 15:06:37,760 [main] main.logging.ListaPromedio  - La longituda de la lista es mayor a 5
+INFO    2022-10-28 15:06:37,761 [main] main.logging.ListaPromedio  - La longituda de la lista es mayor a 5
+INFO    2022-10-28 15:06:37,761 [main] main.logging.ListaPromedio  - La longituda de la lista es mayor a 10
+ERROR   2022-10-28 15:06:37,761 [main] main.Main  - La lista es igual a cero 
+java.lang.Exception
+	at main.logging.ListaPromedio.<init>(ListaPromedio.java:25)
+	at main.Main.main(Main.java:24)
+INFO    2022-10-28 15:10:21,867 [main] main.logging.ListaPromedio  - La longituda de la lista es mayor a 5
+INFO    2022-10-28 15:10:21,868 [main] main.logging.ListaPromedio  - La longituda de la lista es mayor a 10
+ERROR   2022-10-28 15:10:21,868 [main] main.Main  - La lista es igual a cero 
+java.lang.Exception
+	at main.logging.ListaPromedio.<init>(ListaPromedio.java:25)
+	at main.Main.main(Main.java:24)
+INFO    2022-10-28 15:10:49,839 [main] main.logging.ListaPromedio  - La longituda de la lista es mayor a 5
+INFO    2022-10-28 15:10:49,840 [main] main.logging.ListaPromedio  - La longituda de la lista es mayor a 10
+ERROR   2022-10-28 15:10:49,841 [main] main.Main  - La lista es igual a cero 
+java.lang.Exception
+	at main.logging.ListaPromedio.<init>(ListaPromedio.java:25)
+	at main.Main.main(Main.java:24)
+INFO    2022-10-28 15:13:51,858 [main] main.logging.ListaPromedio  - La longitud de la lista es mayor a 5
+INFO    2022-10-28 15:13:51,859 [main] main.logging.ListaPromedio  - La longitud de la lista es mayor a 10
+ERROR   2022-10-28 15:13:51,860 [main] main.Main  - La lista es igual a cero 
+java.lang.Exception
+	at main.logging.ListaPromedio.<init>(ListaPromedio.java:25)
+	at main.Main.main(Main.java:24)
